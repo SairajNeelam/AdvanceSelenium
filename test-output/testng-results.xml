@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[report configuration]]>
+    </line>
+    <line>
+      <![CDATA[DB Connectivity Open]]>
+    </line>
+    <line>
+      <![CDATA[Preconditions]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-07-26T07:42:55 IST" name="Default suite" finished-at="2025-07-26T07:43:11 IST" duration-ms="15858">
+    <groups>
+      <group name="Smoke">
+        <method signature="NinzaCRM_TC03_Test.createStatus()[pri:0, instance:testcases.NinzaCRM_TC03_Test@6c6cb480]" name="createStatus" class="testcases.NinzaCRM_TC03_Test"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2025-07-26T07:42:55 IST" name="Default test" finished-at="2025-07-26T07:43:11 IST" duration-ms="15858">
+      <class name="testcases.NinzaCRM_TC03_Test">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testcases.NinzaCRM_TC03_Test@6c6cb480]" started-at="2025-07-26T07:42:55 IST" name="beforeSuite" finished-at="2025-07-26T07:42:55 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[DB Connectivity Open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testcases.NinzaCRM_TC03_Test@6c6cb480]" started-at="2025-07-26T07:42:55 IST" name="beforeTest" finished-at="2025-07-26T07:42:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Preconditions]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testcases.NinzaCRM_TC03_Test@6c6cb480]" started-at="2025-07-26T07:42:55 IST" name="beforeClass" finished-at="2025-07-26T07:42:57 IST" duration-ms="1503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.NinzaCRM_TC03_Test@6c6cb480]" started-at="2025-07-26T07:42:57 IST" name="beforeMethod" finished-at="2025-07-26T07:43:01 IST" duration-ms="4065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="createStatus()[pri:0, instance:testcases.NinzaCRM_TC03_Test@6c6cb480]" started-at="2025-07-26T07:43:01 IST" name="createStatus" finished-at="2025-07-26T07:43:03 IST" duration-ms="1752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createStatus -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.NinzaCRM_TC03_Test@6c6cb480]" started-at="2025-07-26T07:43:03 IST" name="afterMethod" finished-at="2025-07-26T07:43:11 IST" duration-ms="8319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testcases.NinzaCRM_TC03_Test@6c6cb480]" started-at="2025-07-26T07:43:11 IST" name="afterClass" finished-at="2025-07-26T07:43:11 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testcases.NinzaCRM_TC03_Test@6c6cb480]" started-at="2025-07-26T07:43:11 IST" name="afterTest" finished-at="2025-07-26T07:43:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testcases.NinzaCRM_TC03_Test@6c6cb480]" started-at="2025-07-26T07:43:11 IST" name="afterSuite" finished-at="2025-07-26T07:43:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.NinzaCRM_TC03_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
